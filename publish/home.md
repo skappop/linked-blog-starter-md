@@ -1,28 +1,5 @@
 ---
-title: 1.1 Kinematics
-excerpt: Chapter 1
+title: OL Physics by 9Online
+excerpt: Return to physics main page
 ---
-## Vector and Scalar Quantities
-
-### [[Scalar Quantities]]
-
-### [[Vector Quantities]]
-
-
-
-## Motion of Objects
-### [[Distance and Displacement]]
-
-### [[Speed and Velocity]]
-
-### [[Acceleration]]
-
-### [[Key Equations]]
-
-### [[Motion Graphs]]
-
-### [[Equations of Motion]]
-
-
-
-
+# [[1.1 Kinematics]]
