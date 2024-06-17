@@ -1,0 +1,13 @@
+- Physical quantities described by **magnitude only**.
+- **Examples of Scalar Quantities**:
+    - Temperature
+    - Time
+    - Distance
+    - Work and energy
+    - Power
+    - Mass
+    - Speed
+    - Volume
+    - Density
+- Direction has **no effect** on scalar quantities.
+- Scalar quantities can **never have negative values**.
